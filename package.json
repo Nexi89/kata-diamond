@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@types/jest": "^23.3.1",
+    "@types/jest": "^23.3.14",
     "@types/node": "^10.5.8",
     "jest": "^23.5.0",
     "ts-jest": "^23.1.3",
